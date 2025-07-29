@@ -46,5 +46,5 @@ The dashboard highlights key agricultural commodities including cereals, fruits,
 
 ## 📷 Dashboard Snapshots
 
-> Add screenshots here using Markdown image syntax once uploaded:
+![Dashboard](https://github.com/Harsh4AP/Global-Food-Production-Trends-and-Analysis/blob/main/7.%20Project%20Documentation%20and%20Demonstration/Dashboard%20Screenshot.png)
 
