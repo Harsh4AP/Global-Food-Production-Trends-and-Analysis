@@ -6,7 +6,7 @@
 
 ## 📊 Project Overview
 
-This repository presents a comprehensive **Power BI dashboard** analyzing global food production trends from **1961 to 2023**, created as part of my **internship at TechNest**.
+This repository presents a comprehensive **Power BI dashboard** analyzing global food production trends from **1961 to 2023**, created as part of my **SmartInternz Internship**.
 
 The dashboard highlights key agricultural commodities including cereals, fruits, and beverages, allowing for deep insights into production patterns across countries, regions, and decades.
 
